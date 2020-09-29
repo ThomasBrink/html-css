@@ -1,0 +1,34 @@
+div{
+	padding-left: 500px;
+	padding-right: 500px;
+	margin: 40px;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+}
+
+ul{
+	margin: 10px;
+}
+
+ol{
+	padding-bottom: 20px;
+}
+
+img{
+	width: 400px;
+	height: 400px;
+}
+
+div:nth-of-type(2){
+	padding-left: 500px;
+	padding-right: 500px;
+	margin: 40px;
+
+}
+
+a{
+	padding-left: 30px;
+}
