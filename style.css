@@ -1,34 +1,39 @@
-div{
-	padding-left: 500px;
-	padding-right: 500px;
-	margin: 40px;
+body{
+	stroke: 500px;
+	font-family: 'Roboto', sans-serif;
 }
 
-h1{
-	font-size: 36px;
-	line-height: 36px;
+.center{
+	margin: auto;
+	width: 40%;
+	
 }
 
-ul{
-	margin: 10px;
+.foto{
+	width: 550px;
+    height: 400px;
+}
+
+.foto2{
+	width: 450px;
+    height: 400px;
 }
 
 ol{
-	padding-bottom: 20px;
+    padding-bottom: 20px;
 }
 
-img{
-	width: 400px;
-	height: 400px;
+ul{
+    margin: 10px;
 }
 
-div:nth-of-type(2){
-	padding-left: 500px;
-	padding-right: 500px;
-	margin: 40px;
-
+h1{
+    font-size: 36px;
+    line-height: 36px;
 }
 
 a{
-	padding-left: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
 }
+
